@@ -1,4 +1,9 @@
-### Hi!
+### Silas, if you're reading this.
 
-I'm a final year student in a game development school in Finland.
-My Github account only has a tiny part of the projects I've been in, I have a bad habit of forgetting to upload resume code.
+I know very little about github but you can click on "Repositories". Inside there should be a repository with my username, peruna77. 
+(Or you can just click on this link to get there https://github.com/peruna77/peruna77 )
+
+There should be an "issues" page where you can submit issues, you can write anything there that you want.
+(Again, link to the issues page just in case you can't find it https://github.com/peruna77/peruna77/issues )
+
+
