@@ -7,4 +7,4 @@ There should be an "issues" page where you can submit issues, you can write anyt
 (Again, link to the issues page just in case you can't find it https://github.com/peruna77/peruna77/issues )
 
 LASTLY - I have created this site which if you can open you should be able to edit the text box and I'll see anything you write there.
-https://lassijylhankangas.wixsite.com/my-site
+https://ljst.wixsite.com/my-site
