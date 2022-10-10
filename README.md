@@ -1,4 +1,4 @@
-### Silas, if you're reading this.
+### If you're reading this.
 
 I know very little about github but you can click on "Repositories". Inside there should be a repository with my username, peruna77. 
 (Or you can just click on this link to get there https://github.com/peruna77/peruna77 )
